@@ -1,0 +1,15 @@
+/Users/marmelad/RiderProjects/lab02/ClassRoom/bin/Debug/net6.0/ClassRoom.deps.json
+/Users/marmelad/RiderProjects/lab02/ClassRoom/bin/Debug/net6.0/ClassRoom.dll
+/Users/marmelad/RiderProjects/lab02/ClassRoom/bin/Debug/net6.0/ClassRoom.pdb
+/Users/marmelad/RiderProjects/lab02/ClassRoom/bin/Debug/net6.0/Pupil.dll
+/Users/marmelad/RiderProjects/lab02/ClassRoom/bin/Debug/net6.0/Pupil.pdb
+/Users/marmelad/RiderProjects/lab02/ClassRoom/obj/Debug/net6.0/ClassRoom.csproj.AssemblyReference.cache
+/Users/marmelad/RiderProjects/lab02/ClassRoom/obj/Debug/net6.0/ClassRoom.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marmelad/RiderProjects/lab02/ClassRoom/obj/Debug/net6.0/ClassRoom.AssemblyInfoInputs.cache
+/Users/marmelad/RiderProjects/lab02/ClassRoom/obj/Debug/net6.0/ClassRoom.AssemblyInfo.cs
+/Users/marmelad/RiderProjects/lab02/ClassRoom/obj/Debug/net6.0/ClassRoom.csproj.CoreCompileInputs.cache
+/Users/marmelad/RiderProjects/lab02/ClassRoom/obj/Debug/net6.0/ClassRoom.csproj.CopyComplete
+/Users/marmelad/RiderProjects/lab02/ClassRoom/obj/Debug/net6.0/ClassRoom.dll
+/Users/marmelad/RiderProjects/lab02/ClassRoom/obj/Debug/net6.0/refint/ClassRoom.dll
+/Users/marmelad/RiderProjects/lab02/ClassRoom/obj/Debug/net6.0/ClassRoom.pdb
+/Users/marmelad/RiderProjects/lab02/ClassRoom/obj/Debug/net6.0/ref/ClassRoom.dll

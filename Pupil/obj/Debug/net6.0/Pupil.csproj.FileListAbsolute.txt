@@ -1,0 +1,12 @@
+/Users/marmelad/RiderProjects/lab02/Pupil/bin/Debug/net6.0/Pupil.deps.json
+/Users/marmelad/RiderProjects/lab02/Pupil/bin/Debug/net6.0/Pupil.dll
+/Users/marmelad/RiderProjects/lab02/Pupil/bin/Debug/net6.0/Pupil.pdb
+/Users/marmelad/RiderProjects/lab02/Pupil/obj/Debug/net6.0/Pupil.csproj.AssemblyReference.cache
+/Users/marmelad/RiderProjects/lab02/Pupil/obj/Debug/net6.0/Pupil.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marmelad/RiderProjects/lab02/Pupil/obj/Debug/net6.0/Pupil.AssemblyInfoInputs.cache
+/Users/marmelad/RiderProjects/lab02/Pupil/obj/Debug/net6.0/Pupil.AssemblyInfo.cs
+/Users/marmelad/RiderProjects/lab02/Pupil/obj/Debug/net6.0/Pupil.csproj.CoreCompileInputs.cache
+/Users/marmelad/RiderProjects/lab02/Pupil/obj/Debug/net6.0/Pupil.dll
+/Users/marmelad/RiderProjects/lab02/Pupil/obj/Debug/net6.0/refint/Pupil.dll
+/Users/marmelad/RiderProjects/lab02/Pupil/obj/Debug/net6.0/Pupil.pdb
+/Users/marmelad/RiderProjects/lab02/Pupil/obj/Debug/net6.0/ref/Pupil.dll

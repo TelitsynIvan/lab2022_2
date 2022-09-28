@@ -1,0 +1,12 @@
+/Users/marmelad/RiderProjects/lab02/Vehicle/bin/Debug/net6.0/Vehicle.deps.json
+/Users/marmelad/RiderProjects/lab02/Vehicle/bin/Debug/net6.0/Vehicle.dll
+/Users/marmelad/RiderProjects/lab02/Vehicle/bin/Debug/net6.0/Vehicle.pdb
+/Users/marmelad/RiderProjects/lab02/Vehicle/obj/Debug/net6.0/Vehicle.csproj.AssemblyReference.cache
+/Users/marmelad/RiderProjects/lab02/Vehicle/obj/Debug/net6.0/Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marmelad/RiderProjects/lab02/Vehicle/obj/Debug/net6.0/Vehicle.AssemblyInfoInputs.cache
+/Users/marmelad/RiderProjects/lab02/Vehicle/obj/Debug/net6.0/Vehicle.AssemblyInfo.cs
+/Users/marmelad/RiderProjects/lab02/Vehicle/obj/Debug/net6.0/Vehicle.csproj.CoreCompileInputs.cache
+/Users/marmelad/RiderProjects/lab02/Vehicle/obj/Debug/net6.0/Vehicle.dll
+/Users/marmelad/RiderProjects/lab02/Vehicle/obj/Debug/net6.0/refint/Vehicle.dll
+/Users/marmelad/RiderProjects/lab02/Vehicle/obj/Debug/net6.0/Vehicle.pdb
+/Users/marmelad/RiderProjects/lab02/Vehicle/obj/Debug/net6.0/ref/Vehicle.dll

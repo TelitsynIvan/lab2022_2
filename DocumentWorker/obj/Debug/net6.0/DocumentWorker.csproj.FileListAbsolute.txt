@@ -1,0 +1,12 @@
+/Users/marmelad/RiderProjects/lab02/DocumentWorker/bin/Debug/net6.0/DocumentWorker.deps.json
+/Users/marmelad/RiderProjects/lab02/DocumentWorker/bin/Debug/net6.0/DocumentWorker.dll
+/Users/marmelad/RiderProjects/lab02/DocumentWorker/bin/Debug/net6.0/DocumentWorker.pdb
+/Users/marmelad/RiderProjects/lab02/DocumentWorker/obj/Debug/net6.0/DocumentWorker.csproj.AssemblyReference.cache
+/Users/marmelad/RiderProjects/lab02/DocumentWorker/obj/Debug/net6.0/DocumentWorker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marmelad/RiderProjects/lab02/DocumentWorker/obj/Debug/net6.0/DocumentWorker.AssemblyInfoInputs.cache
+/Users/marmelad/RiderProjects/lab02/DocumentWorker/obj/Debug/net6.0/DocumentWorker.AssemblyInfo.cs
+/Users/marmelad/RiderProjects/lab02/DocumentWorker/obj/Debug/net6.0/DocumentWorker.csproj.CoreCompileInputs.cache
+/Users/marmelad/RiderProjects/lab02/DocumentWorker/obj/Debug/net6.0/DocumentWorker.dll
+/Users/marmelad/RiderProjects/lab02/DocumentWorker/obj/Debug/net6.0/refint/DocumentWorker.dll
+/Users/marmelad/RiderProjects/lab02/DocumentWorker/obj/Debug/net6.0/DocumentWorker.pdb
+/Users/marmelad/RiderProjects/lab02/DocumentWorker/obj/Debug/net6.0/ref/DocumentWorker.dll

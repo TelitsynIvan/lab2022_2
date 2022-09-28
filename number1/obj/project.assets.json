@@ -1,0 +1,106 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ClassRoom/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Pupil": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ClassRoom.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassRoom.dll": {}
+        }
+      },
+      "Pupil/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Pupil.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pupil.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassRoom/1.0.0": {
+      "type": "project",
+      "path": "../ClassRoom/ClassRoom.csproj",
+      "msbuildProject": "../ClassRoom/ClassRoom.csproj"
+    },
+    "Pupil/1.0.0": {
+      "type": "project",
+      "path": "../Pupil/Pupil.csproj",
+      "msbuildProject": "../Pupil/Pupil.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ClassRoom >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/marmelad/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/marmelad/RiderProjects/lab02/number1/number1.csproj",
+      "projectName": "number1",
+      "projectPath": "/Users/marmelad/RiderProjects/lab02/number1/number1.csproj",
+      "packagesPath": "/Users/marmelad/.nuget/packages/",
+      "outputPath": "/Users/marmelad/RiderProjects/lab02/number1/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/marmelad/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/marmelad/RiderProjects/lab02/ClassRoom/ClassRoom.csproj": {
+              "projectPath": "/Users/marmelad/RiderProjects/lab02/ClassRoom/ClassRoom.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
